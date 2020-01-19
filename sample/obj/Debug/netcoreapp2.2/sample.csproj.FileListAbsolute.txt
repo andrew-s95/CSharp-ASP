@@ -1,0 +1,14 @@
+/Users/andrew627/Desktop/C#/ASP/sample/bin/Debug/netcoreapp2.2/sample.deps.json
+/Users/andrew627/Desktop/C#/ASP/sample/bin/Debug/netcoreapp2.2/sample.runtimeconfig.json
+/Users/andrew627/Desktop/C#/ASP/sample/bin/Debug/netcoreapp2.2/sample.runtimeconfig.dev.json
+/Users/andrew627/Desktop/C#/ASP/sample/bin/Debug/netcoreapp2.2/sample.dll
+/Users/andrew627/Desktop/C#/ASP/sample/bin/Debug/netcoreapp2.2/sample.pdb
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.csprojAssemblyReference.cache
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.csproj.CoreCompileInputs.cache
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.RazorAssemblyInfo.cache
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.RazorAssemblyInfo.cs
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.AssemblyInfoInputs.cache
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.AssemblyInfo.cs
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.RazorTargetAssemblyInfo.cache
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.dll
+/Users/andrew627/Desktop/C#/ASP/sample/obj/Debug/netcoreapp2.2/sample.pdb
