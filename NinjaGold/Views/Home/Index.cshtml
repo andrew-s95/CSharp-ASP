@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ninja Gold</title>
+</head>
+<body>
+    <div class="container">
+        <label for="gold">Your Gold: @ViewBag.gold</label>
+        <div class="row row-cols-4">
+            <div class="col">
+            <form action="farm" method="post">
+            <h3>Farm</h3>
+            <p>Earns 10-20 golds</p>
+            <button class='btn btn-dark'>Find Gold!</button>
+            </form>
+            </div>
+
+            <div class="col">
+            <form action="cave" method="post">
+            <h3>Cave</h3>
+            <p>Earns 5-10 golds</p>
+            <button class='btn btn-dark'>Find Gold!</button>
+            </form>
+            </div>
+
+            <div class="col">
+            <form action="home" method="post">
+            <h3>Home</h3>
+            <p>Earns 2-5 golds</p>
+            <button class='btn btn-dark'>Find Gold!</button>
+            </form>
+            </div>
+
+            <div class="col">
+            <form action="casino" method="post">
+            <h3>Casino</h3>
+            <p>Earns/Takes 0-50 golds</p>
+            <button class='btn btn-dark'>Find Gold!</button>
+            </form>
+            </div>
+        </div>
+        <br>
+        <div class="text-center">
+        <textarea name="activities" id="Activities" cols="100" area="500">
+            @ViewBag.act
+        </textarea>
+        </div>
+        <a href="clear">Clear dis bitch</a>
+    </div>
+</body>
+</html>
